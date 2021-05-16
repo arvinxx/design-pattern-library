@@ -1,7 +1,9 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "airtable": "^0.11.0"
+  },
   "devDependencies": {
     "@vercel/node": "^1.10.0"
   }

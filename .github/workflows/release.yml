@@ -30,7 +30,7 @@ jobs:
         run: yarn
 
       - name: Code Check
-        run: yarn lint && yarn test
+        run: yarn lint
 
       - name: Release
         run: yarn release
